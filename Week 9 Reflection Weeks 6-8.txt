@@ -1,0 +1,62 @@
+# Week 9 Reflection: Weeks 6-8
+
+## Name
+Christian Calkins
+## Project Or App Name
+Human Data Collection App
+## Part 1: Development Process
+Describe how you moved from story or app idea into folders, files, documentation, JSON, and testing.
+I started by brainstorming the ideas for my story. I thought about various things I liked, from anime, to comic books, to music, and decided to create an app that included human data and the idea of reincarnation through technology. Once I got my inspiration, I then watched the guides provided to us, and figured out how to design the folder maker app. Once I made the folder maker, I added folders that detailed the contents of the app, made a changelog, and then learned how to add a JSON Class to my  to my app in order to save data consistently for the users of my app. I tested this through trial and error, even having to remake my project from scratch.  
+## Part 2: Querying And Research
+List at least three things you searched, asked, watched, tested, or read.
+1.	I wanted to see how I could make my code neater, and allow for an efficient method of storing my info. I used Microsoft Learn, and Youtube to figure it out.  Then, I tested to see if the code would work and found that it neatly sorted my folders and saved the info to JSON. 
+2.	. Then, I tried to figure out how to make my app accept integers for use within my folders by changing the string to an integer so that it would be better for my project and actually accept it within the Json.
+3.	 Lastly, I  looked into combining directories because I had multiple folders that were missing out on information. If I wanted to include them within my app later on, I had to combine the directories. So, I used Microsoft Learn, and found this: The path.combine method. 
+https://learn.microsoft.com/en-us/dotnet/api/system.io.path.combine?view=net-10.0
+
+
+## Part 3: Code Does Not Live Alone
+Explain how code connects to soft skills, hard skills, collaboration, machines, documentation, and communication.
+Code allows you to use the skills you learned (hard skills) to create things. The expertise needed to navigate your language or create your project. The soft skills, or things that require finesse and detail, such as the way your code is written depend on how you format it and if the user accessing it can easily comprehend what they are viewing to use your project or assist you. This is where the collaboration comes in, it’s all about how you portray your code, and how you use communication to do this. To keep things in order within a group project, you need good documentation as well as the skills to keep it up, write the code, and work together. It’s all one well-oiled machine, which allows the actual machine you could be working with to bring you to the finish line, a completed project. 
+## Part 4: What I Would Change
+If you could redo Weeks 6-8, what would you organize, document, ask, test, or submit differently?
+I would make sure that I did not mess up my project. I ended up losing my project but I redid it and it worked. I think this was because of poor documentation, so I’d definitely improve that. Since then, I’ve made double copies of my app that are ready to be used. I also made a mistake in week 7, that caused me to lose half of the points. I did not document where I placed the discord image, so I would put it within it’s own folder like I do on Google Drive. I’ll make the excuse that I was still new to git folders and uploading projects. :^) 
+
+
+## Part 5: Week 9 Coding Practice
+Explain both required coding pathways.
+
+### Pathway A: Text Starter Code
+Explain what the provided starter code does after you get it running in Visual Studio.
+
+- Array used: storyChoices()
+
+- Loop used to display choices: For...Next loop
+
+- Loop used to repeat the program: Do While...Loop
+- Three choices I changed: Add your information to the app,
+Keep your information private, 
+Access your memories
+
+### Pathway B: Video Tutorial
+Explain what you built by following the VB.NET loops video.
+
+- Project from the video: Human Data ID
+- Loop or loops used: I used the loops provided within the tutorial video.
+- My small personal change: I added some flair that connected to my story, such as “Data Collected” after using the loop. 
+- Screenshot location:
+Pathway A Folder
+Pathway B Folder
+
+## Part 6: Git Submission Map
+Your root README must explain where the instructor can find every item you want graded.
+
+- Reflection location: Week 9 Reflection.txt
+- Query log location: Query log.txt
+- Pathway A text starter project location: Pathway A Folder
+- Pathway B video tutorial project location: Pathway B Folder
+- Screenshots location: Screenshots Folder
+- Discord proof location: Discord Proof Folder
+- Assets or libraries location: In respective folders, Pathway A and Pathway B
+- README location: README document
+

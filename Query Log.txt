@@ -1,0 +1,6 @@
+## Part 2: Querying
+List at least three things you searched, asked, watched, tested, or read.
+1.	I wanted to see how I could make my code neater, and allow for an efficient method of storing my info. I used Microsoft Learn, and Youtube to figure it out.  Then, I tested to see if the code would work and found that it neatly sorted my folders and saved the info to JSON. 
+2.	. Then, I tried to figure out how to make my app accept integers for use within my folders by changing the string to an integer so that it would be better for my project and actually accept it within the Json.
+3.	 Lastly, I  looked into combining directories because I had multiple folders that were missing out on information. If I wanted to include them within my app later on, I had to combine the directories. So, I used Microsoft Learn, and found this: The path.combine method. 
+https://learn.microsoft.com/en-us/dotnet/api/system.io.path.combine?view=net-10.0
