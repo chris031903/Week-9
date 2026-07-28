@@ -1,5 +1,5 @@
 README: 
-- Reflection location: Week 9 Reflection.txt
+- Reflection location: Week 6-8 Reflection.txt
 - Query log location: Query log.txt
 - Pathway A text starter project location: Pathway A Folder
 - Pathway B video tutorial project location: Pathway B Folder
